@@ -60,34 +60,3 @@ We love to have `articles` and `codes` in different languages and the `bettermen
 Please discuss it with us first by creating a new issue.
 
 🎉 🎊 😃 _**Happy Contributing**_ 😃 🎊 🎉
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
